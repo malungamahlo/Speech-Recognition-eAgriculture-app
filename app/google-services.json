@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540754162114",
+    "project_id": "farming-ed8f6",
+    "storage_bucket": "farming-ed8f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540754162114:android:4966048a88a88530baa65b",
+        "android_client_info": {
+          "package_name": "com.Farm.e_agric"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540754162114-udcteasrm0uvnkkltvfse8lkp2h4ivbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOV5FFI67gKMt7JViH_pNe48IAgowWM28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540754162114-udcteasrm0uvnkkltvfse8lkp2h4ivbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
